@@ -1,4 +1,4 @@
-# Dissertation Project: Domain Adaptation for Fair Diabetes Risk Scoring
+# Early Type 2 Diabetes Prediction: Evaluating Domain Adaptation and Fairness Aware Machine Learning Across Diverse Populations
 
 ## Project Structure
 ```
