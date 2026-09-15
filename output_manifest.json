@@ -1,0 +1,51 @@
+{
+  "processed_data": [
+    "pima_processed.csv",
+    "nhanes_processed.csv",
+    "brfss_processed.csv",
+    "combined_aligned.csv"
+  ],
+  "tables": [
+    "pima_test_metrics.csv",
+    "bias_amplification_map.csv",
+    "bias_amplification_pivot.csv",
+    "history_dann_nhanes.csv",
+    "history_coral_nhanes.csv",
+    "history_mmd_nhanes.csv",
+    "history_dann_brfss.csv",
+    "history_coral_brfss.csv",
+    "history_mmd_brfss.csv",
+    "subgroup_metrics_all_models.csv",
+    "subgroup_auc_pivot.csv",
+    "pareto_frontier_data.csv",
+    "pareto_frontier_auc_dp.csv",
+    "pareto_frontier_auc_eo.csv",
+    "calibration_data_baseline_logreg.csv",
+    "calibration_data_dann_nhanes.csv",
+    "calibration_data_coral_nhanes.csv",
+    "calibration_data_mmd_nhanes.csv",
+    "statistical_tests.csv",
+    "trained_models.csv",
+    "baseline_models_summary.csv"
+  ],
+  "predictions": [
+    "predictions_baseline_LogReg_pima_test.csv",
+    "predictions_baseline_RandomForest_pima_test.csv",
+    "predictions_baseline_NeuralNet_pima_test.csv",
+    "predictions_baseline_LogReg_nhanes.csv",
+    "predictions_baseline_RandomForest_nhanes.csv",
+    "predictions_baseline_NeuralNet_nhanes.csv",
+    "predictions_baseline_LogReg_brfss.csv",
+    "predictions_baseline_RandomForest_brfss.csv",
+    "predictions_baseline_NeuralNet_brfss.csv"
+  ],
+  "embeddings": [
+    "feature_space_raw.csv",
+    "feature_space_dann_nhanes.csv",
+    "feature_space_dann_brfss.csv",
+    "feature_space_coral_nhanes.csv",
+    "feature_space_coral_brfss.csv",
+    "feature_space_mmd_nhanes.csv",
+    "feature_space_mmd_brfss.csv"
+  ]
+}

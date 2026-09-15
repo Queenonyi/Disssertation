@@ -1,0 +1,4 @@
+Model,Phase
+LogReg,Baseline_Trained_on_PIMA
+RandomForest,Baseline_Trained_on_PIMA
+NeuralNet,Baseline_Trained_on_PIMA
